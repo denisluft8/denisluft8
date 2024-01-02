@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dênis Augusto, a passionate front-end developer from Brazil, diving into the world of technology.<br>
+I'm Dênis Augusto, a passionate front-end developer from Brazil, diving into the world of development.<br>
 
 
 | 💻 Tech Stack                                      | 📊 GitHub Stats                                              |
